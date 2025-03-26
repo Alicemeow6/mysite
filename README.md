@@ -1,2 +1,2 @@
-# mysite
-My first site for project in school
+# keynot.github.io
+Мой второй сайт
